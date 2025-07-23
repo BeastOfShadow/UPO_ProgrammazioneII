@@ -2,8 +2,6 @@
 
 Tutorial su come scaricare e usare i file contenenti gli esercizi di programmazione II.
 
-Se si voglio vedere anche le altre materie, clicca [qui](https://github.com/SimoneNegro/UPO).
-
 ## Breve tutorial
 
 Per scaricare la cartella, cliccare il pulsante code.
